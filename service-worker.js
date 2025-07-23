@@ -1,13 +1,18 @@
 const CACHE_NAME = 'system-pwa-cache-v1';
 
 const FILES_TO_CACHE = [
-  '/system/',
-  '/system/index.html',
-  '/system/fisica.html',
-  '/system/fisica.jpeg',
-  '/system/manifest.json',
-  '/system/img/12.jpg',
-  '/system/img/512.jpg'
+  '/',
+  'Index.html',
+  'services.html',
+  '12.jpg',
+  'manifest.json',
+  '555.jpg',
+  'contact.html',
+  'education.html',
+    'experience.html',
+      'skills.html'
+
+
 ];
 
 // Instalar y guardar archivos en caché
